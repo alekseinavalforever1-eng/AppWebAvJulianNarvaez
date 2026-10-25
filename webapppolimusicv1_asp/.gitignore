@@ -1,0 +1,13 @@
+# Visual Studio internal cache and configuration
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IIS Express & ASP Precompiled output
+PrecompiledWeb/
+
+# Windows system files
+Thumbs.db
+Desktop.ini

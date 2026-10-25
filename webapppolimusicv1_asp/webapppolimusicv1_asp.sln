@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "webapppolimusicv1_asp", ".", "{9F2A6C4D-2B5E-4B4B-91C3-7E0D3F5C8A1B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_8085"
+		Debug.AspNetCompiler.PhysicalPath = "..\webapppolimusicv1_asp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8085\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_8085"
+		Release.AspNetCompiler.PhysicalPath = "..\webapppolimusicv1_asp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8085\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "8085"
+		SlnRelativePath = "..\webapppolimusicv1_asp\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F2A6C4D-2B5E-4B4B-91C3-7E0D3F5C8A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2A6C4D-2B5E-4B4B-91C3-7E0D3F5C8A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
